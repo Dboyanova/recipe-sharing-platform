@@ -1,0 +1,33 @@
+# Backend
+node_modules/
+.env
+.env.local
+*.log
+*.pem
+build/
+dist/
+.DS_Store
+
+# Frontend
+build/
+.next/
+out/
+.cache/
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
